@@ -114,9 +114,15 @@ Run tests in Xcode using `⌘ + U`.
 
 ## 🖼️ Screenshots (optional)
 
-/Users/Prof_K/Downloads/Screenshot 2025-10-16 at 07.45.46.png
+<img width="642" height="1389" alt="Screenshot 2025-10-16 at 07 45 46" src="https://github.com/user-attachments/assets/8dd6c946-7171-424e-8614-6d407a790137" />
 
-/Users/Prof_K/Downloads/Screenshot 2025-10-16 at 07.43.32.png
+<img width="642" height="1389" alt="Screenshot 2025-10-16 at 07 43 32" src="https://github.com/user-attachments/assets/1b2e6e7c-29b9-435f-8616-b7b9178525ae" />
+
+<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/7eb66183-7250-438f-913c-ee560979d08c" />
+
+<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/ef0f5a00-2d61-4d5b-a1fd-5793a02646d2" />
+
+<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/34858855-cc49-497a-b414-855ffc56f790" />
 
 ---
 
