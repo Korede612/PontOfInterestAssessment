@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		72611BD22EA0BB99008FECC2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 72611BD12EA0BB99008FECC2 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		72367DE82E9F08B3000AA503 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		72367DD12E9F08B2000AA503 /* LincRideAssessment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LincRideAssessment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72367DE72E9F08B3000AA503 /* LincRideAssessmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LincRideAssessmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72367DF12E9F08B3000AA503 /* LincRideAssessmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LincRideAssessmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		72611BD12EA0BB99008FECC2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				72367DEA2E9F08B3000AA503 /* LincRideAssessmentTests */,
 				72367DF42E9F08B3000AA503 /* LincRideAssessmentUITests */,
 				72367DD22E9F08B2000AA503 /* Products */,
+				72611BD12EA0BB99008FECC2 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72611BD22EA0BB99008FECC2 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +299,8 @@
 				DEVELOPMENT_TEAM = NHDBVA4HXP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LincRideAssessment/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Allow access to your location to find nearby places.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow access to your location to find nearby places.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +329,8 @@
 				DEVELOPMENT_TEAM = NHDBVA4HXP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LincRideAssessment/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Allow access to your location to find nearby places.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow access to your location to find nearby places.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
